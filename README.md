@@ -24,10 +24,9 @@ SecureFlow proposes a centralised workflow to simplify this process.
 | Folder | Contents |
 |---|---|
 | 01_Product_Proposal | Product proposal PDF |
-| 02_Figma_Prototype | Figma design and prototype link |
 
 ## Design Prototype
-Figma Prototype: [Insert your Figma link here]
+Figma Prototype:https://www.figma.com/design/oTiVWLTlBeUIWOfffwvJCU/SecureFlow?node-id=0-1&t=glQwql29pkZI4Lcd-1
 
 ## Scope
 This submission represents a product concept and interactive design prototype, not a fully implemented cloud security platform.
